@@ -30,5 +30,12 @@ Rebasing moves your changes to start on top of another branch. It creates a stra
 linear history by rewriting commit history. This makes the project history cleaner but 
 should be used with caution, especially on shared branches.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I’m looking forward to learning how to work with real-world datasets and apply 
+techniques like data cleaning, visualization. I’m especially excited to gain hands-on 
+experience using tools like Python, pandas, and to understand how data can be used to 
+solve meaningful problems. I’m also looking forward to the final project, where I can 
+apply what I’ve learned to a topic I care about.
 
 
