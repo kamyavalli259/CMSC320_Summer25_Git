@@ -16,4 +16,19 @@ marketing, and sports. For example, in healthcare, data science is used to predi
 disease outbreaks, personalize treatment plans, and improve patient care by analyzing 
 large amounts of medical data.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging and rebasing are both used to combine changes from one branch into 
+another, but they work differently.
+
+Merging combines two branches and creates a new commit called a merge commit. It keeps 
+the history of both branches. This makes it easy to see when branches were combined, 
+but the history can get messy with many merge commits.
+
+
+Rebasing moves your changes to start on top of another branch. It creates a straight, 
+linear history by rewriting commit history. This makes the project history cleaner but 
+should be used with caution, especially on shared branches.
+
+
 
